@@ -82,7 +82,7 @@ namespace Tarea1_ProgramacionII
                             return;
 
                         default:
-                            Console.WriteLine("Opción no valida.");
+                            Console.WriteLine("Opcion no valida.");
                             break;
                     }
 
