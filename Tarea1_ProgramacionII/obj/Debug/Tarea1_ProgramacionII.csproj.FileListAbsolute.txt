@@ -6,3 +6,11 @@ C:\Users\linsy\OneDrive\Documents\PROGRAMACION\LinsyC#\Tarea1_ProgramacionII\Tar
 C:\Users\linsy\OneDrive\Documents\PROGRAMACION\LinsyC#\Tarea1_ProgramacionII\Tarea1_ProgramacionII\obj\Debug\Tarea1_ProgramacionII.exe
 C:\Users\linsy\OneDrive\Documents\PROGRAMACION\LinsyC#\Tarea1_ProgramacionII\Tarea1_ProgramacionII\obj\Debug\Tarea1_ProgramacionII.pdb
 C:\Users\linsy\OneDrive\Documents\PROGRAMACION\LinsyC#\Tarea1_ProgramacionII\Tarea1_ProgramacionII\obj\Debug\Tarea1_ProgramacionII.exe.config
+C:\Users\linsy\OneDrive\Documents\Q3-2025\Progra II\Tarea1_ProgramacionII\Tarea1_ProgramacionII\bin\Debug\Tarea1_ProgramacionII.exe.config
+C:\Users\linsy\OneDrive\Documents\Q3-2025\Progra II\Tarea1_ProgramacionII\Tarea1_ProgramacionII\bin\Debug\Tarea1_ProgramacionII.exe
+C:\Users\linsy\OneDrive\Documents\Q3-2025\Progra II\Tarea1_ProgramacionII\Tarea1_ProgramacionII\bin\Debug\Tarea1_ProgramacionII.pdb
+C:\Users\linsy\OneDrive\Documents\Q3-2025\Progra II\Tarea1_ProgramacionII\Tarea1_ProgramacionII\obj\Debug\Tarea1_ProgramacionII.csproj.AssemblyReference.cache
+C:\Users\linsy\OneDrive\Documents\Q3-2025\Progra II\Tarea1_ProgramacionII\Tarea1_ProgramacionII\obj\Debug\Tarea1_ProgramacionII.exe.config
+C:\Users\linsy\OneDrive\Documents\Q3-2025\Progra II\Tarea1_ProgramacionII\Tarea1_ProgramacionII\obj\Debug\Tarea1_ProgramacionII.csproj.CoreCompileInputs.cache
+C:\Users\linsy\OneDrive\Documents\Q3-2025\Progra II\Tarea1_ProgramacionII\Tarea1_ProgramacionII\obj\Debug\Tarea1_ProgramacionII.exe
+C:\Users\linsy\OneDrive\Documents\Q3-2025\Progra II\Tarea1_ProgramacionII\Tarea1_ProgramacionII\obj\Debug\Tarea1_ProgramacionII.pdb

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\linsy\\OneDrive\\Documents\\PROGRAMACION\\LinsyC#\\Tarea1_ProgramacionII\\",
+  "WorkspaceRootPath": "C:\\Users\\linsy\\OneDrive\\Documents\\Q3-2025\\Progra II\\Tarea1_ProgramacionII\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEE5BC0D-9F67-4C59-B0B4-9C36DF8CDD23}|Tarea1_ProgramacionII\\Tarea1_ProgramacionII.csproj|c:\\users\\linsy\\onedrive\\documents\\programacion\\linsyc#\\tarea1_programacionii\\tarea1_programacionii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AEE5BC0D-9F67-4C59-B0B4-9C36DF8CDD23}|Tarea1_ProgramacionII\\Tarea1_ProgramacionII.csproj|c:\\users\\linsy\\onedrive\\documents\\q3-2025\\progra ii\\tarea1_programacionii\\tarea1_programacionii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEE5BC0D-9F67-4C59-B0B4-9C36DF8CDD23}|Tarea1_ProgramacionII\\Tarea1_ProgramacionII.csproj|solutionrelative:tarea1_programacionii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\linsy\\OneDrive\\Documents\\PROGRAMACION\\LinsyC#\\Tarea1_ProgramacionII\\Tarea1_ProgramacionII\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\linsy\\OneDrive\\Documents\\Q3-2025\\Progra II\\Tarea1_ProgramacionII\\Tarea1_ProgramacionII\\Program.cs",
               "RelativeDocumentMoniker": "Tarea1_ProgramacionII\\Program.cs",
-              "ToolTip": "C:\\Users\\linsy\\OneDrive\\Documents\\PROGRAMACION\\LinsyC#\\Tarea1_ProgramacionII\\Tarea1_ProgramacionII\\Program.cs",
+              "ToolTip": "C:\\Users\\linsy\\OneDrive\\Documents\\Q3-2025\\Progra II\\Tarea1_ProgramacionII\\Tarea1_ProgramacionII\\Program.cs",
               "RelativeToolTip": "Tarea1_ProgramacionII\\Program.cs",
-              "ViewState": "AgIAAEcAAAAAzEUY6BwpwIgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAgwK8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-21T15:22:40.105Z",
               "EditorCaption": ""
